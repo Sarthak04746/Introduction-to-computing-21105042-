@@ -29,6 +29,6 @@ Enter the thied number-  44
 Enter the sentence/string - surname
 Yes
 Enter the first side-3
-Enter the second side4
+Enter the second side-4
 Enter the third side-5
 Yes
