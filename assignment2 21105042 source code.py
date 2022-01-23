@@ -116,7 +116,7 @@ else:
 # Taking input from user...
 
 num1=float(input("Enter the first side-"))
-num2=float(input("Enter the second side"))
+num2=float(input("Enter the second side-"))
 num3=float(input("Enter the third side-"))
 
 if num1>=num3+num2 or num2>=num1+num3 or num3>=num1+num2:
